@@ -1,33 +1,19 @@
-# 👋 Hello, I'm [Samandar]!
+# 👋 Hello, I'm Samandar!
 
-I'm a dedicated Roblox Scripter specializing in **Luau**. I'm passionate about creating clean, efficient, and secure game systems. Below are examples of my work.
+I'm a dedicated Roblox Scripter specializing in **Luau**. I'm passionate about creating clean, efficient, and secure game systems. I am currently open for commissions and ready to bring your game ideas to life.
 
 ---
 
 ## 🛠 My Projects
 
-### 1. Auto-Save DataStore System
+### 1. Auto-Save DataStore System (Coming Soon)
+- **Status:** *Currently building and testing this system. Code will be uploaded here upon completion.*
 - **Description:** A reliable system to save and load player data (Money, Level, Inventory).
-- **Features:**
-    - Auto-saves every 60 seconds.
-    - Saves data when the player leaves the game.
-    - Session locking to prevent data duplication.
-- **Script Preview:** [SaveSystem.lua](link-to-your-script)
+- **Planned Features:** Auto-save, session locking, and error handling.
 
-### 2. Functional Shop GUI
+### 2. Functional Shop GUI (Coming Soon)
+- **Status:** *In development. I am focusing on server-side validation for 100% security.*
 - **Description:** A game-ready shop where players can buy tools and items.
-- **Features:**
-    - Server-side validation to prevent exploiting.
-    - Visual feedback on purchase (Success/Fail).
-    - Smooth scrolling UI.
-- **Screenshot/Video:** [Link to image or video]
-
-### 3. Basic Tycoon Dropper
-- **Description:** A classic Roblox tycoon system where parts drop and money is collected.
-- **Features:**
-    - Conveyor belt mechanic.
-    - Auto-sell functionality.
-    - Upgradeable droppers with UI.
 
 ---
 
@@ -40,8 +26,8 @@ I'm a dedicated Roblox Scripter specializing in **Luau**. I'm passionate about c
 
 ## 📞 Contact Me
 - **Discord:** `samandar09327`
-- **Roblox Profile:** [Click Here](https://www.roblox.com/users/your-user-id)
-- **Email:** [samandarabdugafurov25@gmail.com]
+- **Roblox Profile:** [Click Here](https://www.roblox.com/users/156) 
+- **Email:** samandarabdugafurov25@gmail.com
 
 ---
 
