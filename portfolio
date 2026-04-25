@@ -1,0 +1,48 @@
+# 👋 Hello, I'm [Samandar]!
+
+I'm a dedicated Roblox Scripter specializing in **Luau**. I'm passionate about creating clean, efficient, and secure game systems. Below are examples of my work.
+
+---
+
+## 🛠 My Projects
+
+### 1. Auto-Save DataStore System
+- **Description:** A reliable system to save and load player data (Money, Level, Inventory).
+- **Features:**
+    - Auto-saves every 60 seconds.
+    - Saves data when the player leaves the game.
+    - Session locking to prevent data duplication.
+- **Script Preview:** [SaveSystem.lua](link-to-your-script)
+
+### 2. Functional Shop GUI
+- **Description:** A game-ready shop where players can buy tools and items.
+- **Features:**
+    - Server-side validation to prevent exploiting.
+    - Visual feedback on purchase (Success/Fail).
+    - Smooth scrolling UI.
+- **Screenshot/Video:** [Link to image or video]
+
+### 3. Basic Tycoon Dropper
+- **Description:** A classic Roblox tycoon system where parts drop and money is collected.
+- **Features:**
+    - Conveyor belt mechanic.
+    - Auto-sell functionality.
+    - Upgradeable droppers with UI.
+
+---
+
+## 🧠 Skills
+- **Languages:** Luau (Roblox), basic Python
+- **Specialties:** DataStores, UI Scripting, Server-Client Communication (Remotes)
+- **Tools:** Roblox Studio, GitHub, Visual Studio Code
+
+---
+
+## 📞 Contact Me
+- **Discord:** `samandar09327`
+- **Roblox Profile:** [Click Here](https://www.roblox.com/users/your-user-id)
+- **Email:** [samandarabdugafurov25@gmail.com]
+
+---
+
+*I'm open to commissions and freelance work. Feel free to DM me for prices!*
